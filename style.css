@@ -1,0 +1,149 @@
+.container{
+	background-color: #FFC300 ;
+	border-radius: 20px;
+	padding: 20px;
+	justify-content: center;
+	align-items: center;
+	margin-bottom:  20px;
+
+}
+#Topic {
+	background-color: #D1D4EC ;
+}
+.topic {
+	font-family: unset;
+	font-size: 20px;
+	margin: 30px;
+}
+#e-school{
+	background-color: white !important;
+	border-radius: 10px;
+	border : 2px solid black;
+}
+#Contact-about{
+	justify-content: center;
+	align-items: center;
+	background-color: white !important;
+	border-radius: 20px;
+	border : 2px solid black;
+}
+#routine{
+	background-color: white;
+	border : 2px solid black;
+	border-radius: 7px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+#routine-details{
+	width: 100%;
+	height: 100px;
+	box-shadow: 3px 4px #888888;
+	border : 0.8px solid black;
+	border-radius: 10px;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+#features{
+	background : url("https://media1.tenor.com/images/cdaa1ee9aa7fcd86a98151fd99b9b78f/tenor.gif?itemid=13610452") !important;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+
+}
+#flex1{
+	background-color: #F2336C;
+	height: 100%;
+	width: 50%;
+	text-align: center;
+	align-items: center;
+	justify-content: center !important;
+	margin: 10px;
+	float: left;
+	border-radius:  9px;
+}
+#flex2{
+	background-color: #7C33F2;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	align-items: center;
+	justify-content: center !important;
+	margin: 10px;
+	border-radius:  9px;
+}
+#flex3{
+	background-color : #FFC300;
+	height: 100%;
+	width: 50%;
+	text-align: center;
+	align-items: center;
+	justify-content: center !important;
+	margin: 10px;
+	float: right;
+	border-radius: 9px;
+}
+#contact-us{
+	background : url("https://www.fg-a.com/wallpapers/white-background-vines.jpg");
+}
+
+.description{
+	background-color:  #F2336C;
+	box-shadow: 1px 1px #888888;
+	border-radius: 10px;
+	height: 100%;
+	width: 100%;
+}
+.description h1{
+	background-color: #7C33F2;
+	width: 100%;
+	height: 50%;
+	text-align: center;
+}
+.description button{
+	float: right;
+	margin: 7px;
+}
+.description button:hover{
+	background-color: white;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: black;
+	width: 100%;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+	width: 100%;	
+}
+#about-us{
+	background : url("https://img4.goodfon.com/wallpaper/nbig/7/f2/abstract-background-design-yellow-squares-white-abstraktsiia.jpg");
+	width: 100%;
+	height: 100%;
+
+}
+.description-about{
+	background-color: white;
+	margin: 10px;
+	float: right;
+	border : 2px solid black;
+	padding: 10px;
+	border-radius: 8px;
+	width: 30%;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	box-shadow: 3px 3px #888888;
+}
+.description-about-us{
+	background-color: white;
+	margin: 10px;
+	border : 2px solid black;
+	padding: 10px;
+	border-radius: 8px;
+	width: 30%;
+	box-shadow: 3px 3px #888888;
+}
